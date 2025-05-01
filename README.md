@@ -1,8 +1,8 @@
 # currency-coverter
 Currency converter - Collage Python project SE
 Currency Converter Application
-Currency Converter Screenshot <!-- Add a screenshot if available -->
-
+Currency Converter Screenshot
+  
 A simple desktop application built with Python and Tkinter for converting between different currencies using real-time exchange rates.
 
 Features
@@ -13,6 +13,7 @@ Swap currencies with a single click
 Clean and intuitive user interface
 
 Displays the last update time for exchange rates
+![Screenshot_2025-04-21_210934 1](https://github.com/user-attachments/assets/e24b947d-8179-4db8-afa4-dcd0ba6e59ee)
 
 Requirements
 Python 3.x
@@ -52,7 +53,7 @@ Select the source currency (the currency you're converting from)
 Select the target currency (the currency you're converting to)
 
 Click "Convert" to see the result
-![Screenshot_2025-04-21_210946 1](https://github.com/user-attachments/assets/3b50d7a3-9aff-4f7e-8711-773b70161699)
+
 
 
 Use "Swap Currencies" to quickly switch between source and target currencies
